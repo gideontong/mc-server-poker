@@ -24,6 +24,6 @@ def main():
             Email.notify(time, ping, players)
         else:
             print("Ping completed in", ping, "at", time, "with no change")
-        sleep(25)
+        sleep(300)
 
 main()
