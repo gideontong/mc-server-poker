@@ -1,3 +1,6 @@
-# mc-server-poker
+# Minecraft Server Poker
 
-Pokes a Minecraft server and notifies you when players are online.
+![Message Notifier](/img/message-bubble.png)
+
+This is a utility that "pokes" (read: pings) a Minecraft server and notifies you if players are online, and if so, what players are online.
+
