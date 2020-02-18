@@ -7,3 +7,7 @@ This is a utility that "pokes" (read: pings) a Minecraft server and notifies you
 ## Usage
 
 See the [usage section](/docs/usage) for information on how to get set up.
+
+## License
+
+See the [license section](/docs/license) for information on the licensing of this software.
